@@ -1,0 +1,6 @@
+id,audio,speak,expected,next
+1,SI_001_WellCome TutrixAI.mp3,"Yes, I am ready.","yes",2
+2,SI_002_Tell me your name.mp3,"My name is...","my name",3
+3,SI_003_Nice to meet you.mp3,"Nice to meet you.","",4
+4,SI_004_How old are you.mp3,"I am 28 years old.","years old",5
+5,SI_005_Where are you from.mp3,"I am from Odisha.","odisha",6
