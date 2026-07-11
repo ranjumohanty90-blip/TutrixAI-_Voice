@@ -1,0 +1,34 @@
+{
+"dialogues": {
+"1": {
+"audio": "https://raw.githubusercontent.com/ranjumohanty90-blip/TutrixAI-_Voice/main/SI_001_Are%20you%20ready.mp3",
+"speak": "Yes, I am ready.",
+"expected": "yes",
+"next": 2
+},
+"2": {
+"audio": "https://raw.githubusercontent.com/ranjumohanty90-blip/TutrixAI-_Voice/main/SI_002_Tell%20me%20your%20name.mp3",
+"speak": "My name is...",
+"expected": "my name",
+"next": 3
+},
+"3": {
+"audio": "https://raw.githubusercontent.com/ranjumohanty90-blip/TutrixAI-_Voice/main/SI_003_Nice%20to%20meet%20you.mp3",
+"speak": "",
+"expected": "",
+"next": 4
+},
+"4": {
+"audio": "https://raw.githubusercontent.com/ranjumohanty90-blip/TutrixAI-_Voice/main/SI_004_How%20old%20are%20you.mp3",
+"speak": "I am 28 years old.",
+"expected": "years old",
+"next": 5
+},
+"5": {
+"audio": "https://raw.githubusercontent.com/ranjumohanty90-blip/TutrixAI-_Voice/main/SI_005_Thank%20you.mp3",
+"speak": "",
+"expected": "",
+"next": 6
+}
+}
+}
